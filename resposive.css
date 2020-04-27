@@ -1,0 +1,106 @@
+@media (max-width: 1400px) {
+    
+    .banner img{
+        display: none;
+    }
+    .banner{
+        background-image: url("banner.jpg");
+        background-size: cover;
+        width: 100%;
+    }
+    .lesson-wrapper{
+        text-align: center;
+    }
+    .lesson{
+        width: 45%;
+    }
+    .lesso{
+        margin-bottom: 30px;
+    }
+    .less{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    
+    .less .span{
+        font-size: 30px;
+    }
+    .txt-contents{
+        font-size: 20px;
+    }
+    
+
+}
+
+@media (max-width: 1000px) {
+    .right-header{
+        display: none;
+    }
+    .icon{
+        display: block;
+    }
+    header .span{
+        width: 200px;
+    }
+    .row-banner p{
+        width: 80%;
+    }
+    .lesson-wrapper{
+        text-align: center;
+    }
+    .form-daftar-row{
+        display: block;
+    }
+    .lesson-wrapper{
+        text-align: center;
+    }
+    .lessons{
+        text-align: center;
+
+    }
+    .lesson{
+        width: 100%;
+    }
+    .row-footer{
+        display: block;
+    }
+    .form-daftar p{
+        font-size: 30px;
+    }  
+    .form-daftar-row1 p{
+        width: 300px;
+    }
+    .login-form{
+        margin-top: 30px;
+        text-align: center;
+    }
+    .daftar{
+        padding-left: 200px;
+        padding-right: 200px;
+    }
+    .center-footer{
+        margin-left: 0px;
+        padding: 0px;
+    }
+    ul{
+        padding: 0px;
+    }
+    .link{
+        font-size: 20px;
+    }
+    .right-footer p{
+        width: 80%;
+        font-size: 14px;
+        line-height: 50px;
+    }
+    .form-daftar{
+        font-size: 40px;
+    }
+    .text{
+        width: 400px;
+    }
+    .form{
+        margin-top: 20px;
+        font-size: 20px;
+    }
+}
